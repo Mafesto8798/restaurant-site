@@ -2,7 +2,7 @@
 
 export default function MenuItems(){
     return(
-        <section className="w-full flex flex-col self-center items-center justify-center bg-gray-100 gap-16 my-12 p-2 lg:p-8">
+        <section className="w-full flex flex-col self-center items-center justify-center bg-gray-100 gap-24 my-12 p-2 lg:p-8">
             <span className="w-full flex flex-col items-center justify-center gap-4 border-b-2 border-gray-400 p-4">
                 <div className="w-full flex items-center justify-between bg-gray-200 rounded">
                 <p className=" font-bold mb-2">Tacos</p>

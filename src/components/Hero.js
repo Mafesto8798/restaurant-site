@@ -23,13 +23,13 @@ export default function Hero(){
         <div className="w-full flex gap-10 items-center justify-center">
           <a 
             href="#menu"
-            className="lg:w-1/4 px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-medium transition"
+            className="lg:w-1/4 px-6 py-3 bg-tertiary hover:bg-red-700 rounded-lg font-medium transition"
           >
             View Menu
           </a>
           <a 
             href="tel:4015551234"
-            className="lg:w-1/4 px-6 py-3 bg-green-600 hover:bg-green-700 rounded-lg font-medium transition"
+            className="lg:w-1/4 px-6 py-3 bg-primary hover:bg-green-700 rounded-lg font-medium transition"
           >
             Call Us
           </a>
